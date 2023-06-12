@@ -1,7 +1,7 @@
 # Python
 All about Python
 
-It is aboout to know the conecpts of Python in Depth !
+It is about to know the conecpts of Python in Depth !
 
 Connect with me :
 
